@@ -20,6 +20,6 @@ To develop smart glasses that can remotely assist people with developmental diso
 Throw some images in here
 
 ## Next Steps:
-Integrating the technology into the frames of the glasses
-Integrate the glasses with more conventional smart glasses features, such as displaying directions and reading texts.
-Developing our own r-CNN to allow for real-time emotion analysis
+- Integrating the technology into the frames of the glasses
+- Integrate the glasses with more conventional smart glasses features, such as displaying directions and reading texts.
+- Developing our own r-CNN to allow for real-time emotion analysis
