@@ -8,7 +8,7 @@ Shashank Ojha, Andreas Joannou, Abdellah Ghassel, Cameron Smith
 <img src = "https://drive.google.com/uc?export=view&id=1U2RM58iYlFkJ64CoOh7ZjSeIdwfOiAN0" width="170" height="160">   
  </p>
 
-Clarity is an interactive smart glass that uses an Artificial Intelligence emotion detection system, to notify the user of the emotion that the users in front of them are feeling. This wearable gadget is also having regular smart glass abilities like; sending reminders, open schedules, and see the weather, to insure that all users get the best experience. 
+Clarity is an interactive smart glass that uses an Artificial Intelligence emotion detection system, to notify the user of the emotion that the users in front of them are feeling. This wearable gadget is also having regular smart glass abilities like; seeing the time, sending reminders, open schedules, and see the weather, to insure that all users get the best experience. 
 
 
 ## Problem:
