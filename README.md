@@ -16,7 +16,9 @@ As mental health continues make it a challenge for individuals to be integrated 
 
 <p align="center">  
 <img src = "https://drive.google.com/uc?export=view&id=1eVZFYgQIm7vu5UOjp5tvgFOxvf3kv4Oj" width="300" height="300">   
-<img src = "https://drive.google.com/uc?export=view&id=1qJgJIAwDI0jxhs1Q59WyaGAvFg5fysTt" width="300" height="300"> 
+<img src = "https://drive.google.com/uc?export=view&id=1L-5w9jzwKG0dLdwe-OCMUa6S2HnZeaFo" width="300" height="300">
+<img src = "https://drive.google.com/uc?export=view&id=1L-1LP7bI9jAupQDQcfbQIszs9igVEFSuqDb" width="300" height="300">
+ 
  </p>
 
 ## Misson Statment: 
