@@ -6,14 +6,14 @@ Shashank Ojha, Andreas Joannou, Abdellah Ghassel, Cameron Smith
 # <img src = "https://drive.google.com/uc?export=view&id=1uSO3lyjBBNwF7WbjJNcRnYrchpkJCQGR" width="220" height="80">   
   
  <p align="center">  
-<img src = "https://drive.google.com/uc?export=view&id=1griTlDOUhpmhqq7CLNtwrQnRGaBXGn72" width="300" height="75">   
+<img src = "https://drive.google.com/uc?export=view&id=1griTlDOUhpmhqq7CLNtwrQnRGaBXGn72" width="3oo" height="75">   
  </p>
 
 Clarity is an interactive smart glass that uses a convolutional neural network, to notify the user of the emotions of those in front of them. This wearable gadget has other smart glass abilities such as the weather and time, viewing daily reminders and weekly schedules, to ensure that users get the best well-rounded experience. 
 
 
 ## Problem:
-As mental health raises barriers inhibiting people's social skills, it is important that innovative technologies accommodate everyone. Studies have found that individuals with developmental disorders such as Autism and Asperger’s Syndrome have trouble recognizing emotions, thus hindering social experiences. For these reasons, we would like to introduce Clarity. Clarity creates a sleek augmented reality experience that allows the user to detect the emotion of individuals in proximity. In addition, Clarity is integrated with unique and powerful features of smart glasses including weather and viewing daily routines and schedules. With further funding and development, the glasses can incorporate more inclusive features straight from your fingertips and to your eyes. 
+As mental health raises barriers inhibiting people's social skills, innovative technologies must accommodate everyone. Studies have found that individuals with developmental disorders such as Autism and Asperger’s Syndrome have trouble recognizing emotions, thus hindering social experiences. For these reasons, we would like to introduce Clarity. Clarity creates a sleek augmented reality experience that allows the user to detect the emotion of individuals in proximity. In addition, Clarity is integrated with unique and powerful features of smart glasses including weather and viewing daily routines and schedules. With further funding and development, the glasses can incorporate more inclusive features straight from your fingertips and to your eyes. 
 
 <p align="center">  
 <img src = "https://drive.google.com/uc?export=view&id=1eVZFYgQIm7vu5UOjp5tvgFOxvf3kv4Oj" width="300" height="300">   
@@ -24,7 +24,7 @@ As mental health raises barriers inhibiting people's social skills, it is import
 
 ## Mission Statement:
 
-At Clarity, we are determined to make everyone’s lives easier, specifically to help facilitate social interactions for individuals with developmental disorders. Everyone knows someone impacted by mental health or cognitive disabilities and how meaningful those precious interactions are. Clarity wants to take a leap forward to make those interactions more memorable, so they can be cherished for a lifetime.
+At Clarity, we are determined to make everyone’s lives easier, specifically to help facilitate social interactions for individuals with developmental disorders. Everyone knows someone impacted by mental health or cognitive disabilities and how meaningful those precious interactions are. Clarity wants to leap forward to make those interactions more memorable, so they can be cherished for a lifetime.
 
 
 <p align="center">  
@@ -63,7 +63,7 @@ Due to the various applications mentioned of this product, this product has expo
 ## Technological Specifications
 
 ## Hardware:
-At first, the body of the device was a simple prism with an angled triangle to reflect the light at 90° from the user. The initial intention was to glue the glass reflector to the outer edge of the triangle to complete the 180° reflection. This plan was then scrapped in favour of a more robust mounting system, including a frontal clip for the reflector and a modular cage for the LCD screen. After feeling confident in the primary design, a CAD prototype was printed via a 3D printer. During the construction of the initial prototype, a number of challenges surfaced including dealing with printer errors, component measurement, and manufacturing mistakes. One problem with the first prototype was the lack of adhesion to the printing bed. This resulted in raised corners which negatively affected component cooperation. This issue was overcome by introducing a ring of material around the main body. Component measurements and manufacturing mistakes further led to improper fitting between pieces. This was ultimately solved by simplifying the initial design, which had fewer points of failure. The evolution of the CAD files can be seen below.
+At first, the body of the device was a simple prism with an angled triangle to reflect the light at 90° from the user. The initial intention was to glue the glass reflector to the outer edge of the triangle to complete the 180° reflection. This plan was then scrapped in favour of a more robust mounting system, including a frontal clip for the reflector and a modular cage for the LCD screen. After feeling confident in the primary design, a CAD prototype was printed via a 3D printer. During the construction of the initial prototype, a number of challenges surfaced including dealing with printer errors, component measurement, and manufacturing mistakes. One problem with the prototype was the lack of adhesion to the printing bed. This resulted in raised corners which negatively affected component cooperation. This issue was overcome by introducing a ring of material around the main body. Component measurements and manufacturing mistakes further led to improper fitting between pieces. This was ultimately solved by simplifying the initial design, which had fewer points of failure. The evolution of the CAD files can be seen below.
  
 <p align="center">
 <img src = "https://drive.google.com/uc?export=view&id=1vDT1gGyfM7FgioSRr71yBSysGntOfiFC" width="400" height="400"> 
@@ -76,7 +76,7 @@ Clarity runs on a Raspberry Pi Model 4b. The RPi communicates with the OLED scre
 
 ### Optics:
 
-Clarity uses two reflections to project the image from the screen to the eye of the wearer. The process can be seen in the figure below.  First, the light from the LCD screen bounces off the mirror which has a normal line oriented at 45° relative to the viewer. Due to the law of reflection, which states that the angle of incidence is equal to the angle of reflection relative to the normal line, the light rays first make a 90° turn. This results in a horizontal flip in the projected image. Then, in a similar fashion, this ray is reflected another 90° against a transparent piece of polycarbonate plexiglass with an anti-reflective coating. This flips the image horizontally once again, resulting in a correctly oriented image. The total length that the light waves must travel should be equivalent to the straight-line distance required for an image to be discernible. This minimum distance is roughly 25 cm for the average person. This led to shifting the screen back within the shell to create a clearer image in the final product.
+Clarity uses two reflections to project the image from the screen to the eye of the wearer. The process can be seen in the figure below.  First, the light from the LCD screen bounces off the mirror which has a normal line oriented at 45° relative to the viewer. Due to the law of reflection, which states that the angle of incidence is equal to the angle of reflection relative to the normal line, the light rays first make a 90° turn. This results in a horizontal flip in the projected image. Then, similarly, this ray is reflected another 90° against a transparent piece of polycarbonate plexiglass with an anti-reflective coating. This flips the image horizontally once again, resulting in a correctly oriented image. The total length that the light waves must travel should be equivalent to the straight-line distance required for an image to be discernible. This minimum distance is roughly 25 cm for the average person. This led to shifting the screen back within the shell to create a clearer image in the final product.
 
 <p align="center">
 <img src = "https://drive.google.com/uc?export=view&id=1dOHIXN2L045LHh7rCoD0iTrW_IVKf7dz" width="200" height="200"> 
@@ -106,7 +106,7 @@ As we believe that our device can make a drastic impact in people’s lives, the
 <img src = "https://drive.google.com/uc?export=view&id=1m85rTMVAqIIK5VRbjqESn1Df-H0Pilx8" width="500" height="700"> 
 </p>
 
-## Refrences: 
+## References: 
 
 •	https://cloud.google.com/vision
 
