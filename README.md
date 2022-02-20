@@ -100,9 +100,13 @@ All CADs were fully created from scratch. However, inspiration was taken from co
 
 ### Research:
 •	https://www.vectorstock.com/royalty-free-vector/smart-glasses-vector-3794640
+
 •	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2781897/
+
 •	https://www.google.com/search?q=how+many+people+have+autism&rlz=1C1CHZN_enCA993CA993&oq=how+many+people+have+autism+&aqs=chrome..69i57j0i512l2j0i390l5.8901j0j9&sourceid=chrome&ie=UTF-8
+
 •	(http://labman.phys.utk.edu/phys222core/modules/m8/human_eye.html)
+
 •	https://mammothmemory.net/physics/mirrors/flat-mirrors/normal-line-and-two-flat-mirrors-at-right-angles.html
 
 
