@@ -27,6 +27,7 @@ We at clarity are determined to make everyone’s lives easier, specifically to 
 
 <p align="center">  
 <img src = "https://drive.google.com/uc?export=view&id=1qJgJIAwDI0jxhs1Q59WyaGAvFg5fysTt" width="300" height="300"> 
+<img src = "https://drive.google.com/uc?export=view&id=1AY5zbgfUB4c_4feWVVrQcuOGtn_yGc9" width="300" height="300"> 
  </p>
 
 We are first time Makaton participants are determined to learn what it takes and make this project come in order to life and make an impact in as many lives as possible.  Throughout this Makathon, we have challenged our selves to deliver a well polished quality product that, we feel when brought to the market can really impact people’s lives. We are second year students from Queen's University who are very passionate about designing of innovative solutions to better the lives of everyone. We all have the mindset to give any task our all and obtain the best results. We have a diverse skillset in the team and throughout the hackathon we utlized it to work efficienty. We are first time Mackathoners, so even though we all had respective expierence in our own fields, this whole expierence was very new and educationally rewarding for us. 
