@@ -27,7 +27,7 @@ We at clarity are determined to make everyone’s lives easier, specifically to 
 
 <p align="center">  
 <img src = "https://drive.google.com/uc?export=view&id=1qJgJIAwDI0jxhs1Q59WyaGAvFg5fysTt" width="300" height="300"> 
-<img src = "https://drive.google.com/uc?export=view&id=1AY5zbgfUB4c_4feWVVrQcuOGtn_yGc9" width="300" height="300"> 
+<img src = "https://drive.google.com/uc?export=view&id=1AY5zbgfUB4c_4feWVVrQcuOGtn_yGc99" width="400" height="300"> 
  </p>
 
 We are first time Makaton participants are determined to learn what it takes and make this project come in order to life and make an impact in as many lives as possible.  Throughout this Makathon, we have challenged our selves to deliver a well polished quality product that, we feel when brought to the market can really impact people’s lives. We are second year students from Queen's University who are very passionate about designing of innovative solutions to better the lives of everyone. We all have the mindset to give any task our all and obtain the best results. We have a diverse skillset in the team and throughout the hackathon we utlized it to work efficienty. We are first time Mackathoners, so even though we all had respective expierence in our own fields, this whole expierence was very new and educationally rewarding for us. 
@@ -49,7 +49,7 @@ As the main point of this device is to help individuals with mental health disor
   
 ### Whats in it for you:
 <p align="center">
-<img src = "https://drive.google.com/uc?export=view&id=1XbrcnIEc3eAYDmkopmwGbSew11GQv91v" width="400" height="400"> 
+<img src = "https://drive.google.com/uc?export=view&id=1XbrcnIEc3eAYDmkopmwGbSew11GQv91v" width="500" height="400"> 
   </p>
  
 The first stakeholder to benefit from Clarity is users. This product provides accessibility right to the eye of almost 75 million users: approx. number of individuals in the world with developmental disorders.  The emotion detection system, that the user’s disposable will make it easy to recognize the emotion that anyone, is feeling. Whether ones watching a Netflix show, or having a live casual conversation, Clarity has got you covered. 
@@ -74,11 +74,15 @@ Clarity uses two reflections to project the image from the screen to the eye of 
 ### Wiring/Connection: [mention next step of bluetooth]
 
 ## Software: 
--diagram of how everything works
--Ai stuff 
--UI stuff with buttons 
+The emotion detection capabilities of the Clarity smart glasses are powered by Google Cloud Vision API. The glasses capture a photo of the people in front of the user, runs the photo through the Cloud Vision model using an API key, and outputs a discrete probability distribution of the emotions. This probability distribution is analyzed by Clarity’s code to determine the emotion of the people in the image. The output of the model is sent to the user through the OLED screen using the Pillow library.
 
-## Challenges and Next Steps: 
+The additional features of the smart glasses include displaying the current time, weather, and the user’s schedule for the day. These features are implemented using various Python libraries and a text file-based storage system. Clarity allows all the features of the smart glasses to be run concurrently through the implementation of asynchronous programming. Using the asyncio library, the user can iterate through the various functionalities seamlessly.
+The glasses are interfaced through a button and the use of Siri. Using an iPhone, Siri can remotely power on the glasses and start the software. From there, users can switch between the various features of Clarity by pressing the button on the side of the glasses.
+
+The software is implemented using a multi-file program that calls functions based on the current state of the glasses, acting as a finite state machine. The program looks for the rising edge of a button impulse to receive inputs from the user, resulting in a change of state and calling the respective function.
+
+## Next Steps: 
+The text steps include integrating a processor/computer inside the glasses, rather than using a raspberry pi. This would allow for the device to take the next step from a prototype stage to a mock mode. The model would also need to have bluetooth and wifi, so that the glasses are modular and easily customizable. We would also use magnifying lenses to make the images on the display bigger, so that a more dynamic UI is created. 
 
 ## Timelines:
 As we believe that our device can really make an impact in people’s lives, the following diagram is used to show how we will pursue Clarity after this Makathon:
@@ -90,6 +94,7 @@ As we believe that our device can really make an impact in people’s lives, the
 ## Refrences: 
 
 ### Hardware: 
+All CADs were fully created from scratch. However, inspiration was taken from conventional DIY smartglasses out there.
 
 ### Software: 
 
