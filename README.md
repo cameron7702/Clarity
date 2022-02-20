@@ -6,7 +6,7 @@ Shashank Ojha, Andreas Joannou, Abdellah Ghassel, Cameron Smith
 # <img src = "https://drive.google.com/uc?export=view&id=1uSO3lyjBBNwF7WbjJNcRnYrchpkJCQGR" width="220" height="80">   
   
  <p align="center">  
-<img src = "https://drive.google.com/uc?export=view&id=1griTlDOUhpmhqq7CLNtwrQnRGaBXGn72" width="3oo" height="75">   
+<img src = "https://drive.google.com/uc?export=view&id=1griTlDOUhpmhqq7CLNtwrQnRGaBXGn72" width="300" height="75">   
  </p>
 
 Clarity is an interactive smart glass that uses a convolutional neural network, to notify the user of the emotions of those in front of them. This wearable gadget has other smart glass abilities such as the weather and time, viewing daily reminders and weekly schedules, to ensure that users get the best well-rounded experience. 
