@@ -81,6 +81,10 @@ Clarity uses two reflections to project the image from the screen to the eye of 
   
 
 ## Software: 
+<p align="center">
+<img src = "https://drive.google.com/uc?export=view&id=1DzqhM4p5y729deKQQkTw5isccUeZRCP8" width="700" height="500"> 
+  </p>
+  
 The emotion detection capabilities of the Clarity smart glasses are powered by Google Cloud Vision API. The glasses capture a photo of the people in front of the user, runs the photo through the Cloud Vision model using an API key, and outputs a discrete probability distribution of the emotions. This probability distribution is analyzed by Clarity’s code to determine the emotion of the people in the image. The output of the model is sent to the user through the OLED screen using the Pillow library.
 
 The additional features of the smart glasses include displaying the current time, weather, and the user’s schedule for the day. These features are implemented using various Python libraries and a text file-based storage system. Clarity allows all the features of the smart glasses to be run concurrently through the implementation of asynchronous programming. Using the asyncio library, the user can iterate through the various functionalities seamlessly.
