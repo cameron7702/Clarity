@@ -109,6 +109,10 @@ All CADs were fully created from scratch. However, inspiration was taken from co
 
 ### Software: 
 
+•	https://cloud.google.com/vision
+
+•	Python Libraries 
+
 ### Research:
 •	https://www.vectorstock.com/royalty-free-vector/smart-glasses-vector-3794640
 
