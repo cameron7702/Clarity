@@ -1,25 +1,10 @@
-# assistive-glasses
 
-## Context:
-Stuff
 
-## Objective:
-To develop smart glasses that can remotely assist people with developmental disorders in the daily lives.
+Shashank Ojha, Sabrina Button, Abdellah Ghassel, Joshua Gonzales   
 
-## Major Packages:
-- Google Cloud Vision: Used for emotion detection
-- Pillow: Used for image processing
-- DigitalIo: Managing GPIO pins on Raspberry Pi
-
-## Hardware:
-- Raspberry Pi Model 4b
-- Raspberry Pi Cameron Module
-- I2C OLED Display
-
-## Results:
-Throw some images in here
-
-## Next Steps:
-- Integrating the technology into the frames of the glasses
-- Integrate the glasses with more conventional smart glasses features, such as displaying directions and reading texts.
-- Developing our own r-CNN to allow for real-time emotion analysis
+#Clarity:
+  
+ <p align="center">  
+<img src = "https://drive.google.com/uc?export=view&id=1U2RM58iYlFkJ64CoOh7ZjSeIdwfOiAN0" width="170" height="160">   
+ </p>
+ 
