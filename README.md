@@ -15,8 +15,8 @@ Clarity is an interactive smart glass that uses an Artificial Intelligence emoti
 As mental health continues make it a challenge for individuals to be integrated into the community, it is important that up and coming technologies also work to accommodate everyone. Specifically, studies have found the individuals with developmental disorders such as Autism and Asperger’s have trouble recognizing emotions, and fitting in. For this reason, we would like to introduce Clarity. Clarity is a smart glass allows for the user to detect the emotion that the individuals in their proximity are feeling, while still having the unique and powerful features of smart glasses including weather and showing daily routines and schedules. With more funding and development, the glasses can have so many more features to take accessibility away from your fingertips and into your eyes. 
 
 <p align="center">  
-<img src = "https://drive.google.com/uc?export=view&id=1eVZFYgQIm7vu5UOjp5tvgFOxvf3kv4Oj" width="400" height="400">   
-<img src = "https://drive.google.com/uc?export=view&id=1qJgJIAwDI0jxhs1Q59WyaGAvFg5fysTt" width="400" height="400"> 
+<img src = "https://drive.google.com/uc?export=view&id=1eVZFYgQIm7vu5UOjp5tvgFOxvf3kv4Oj" width="300" height="300">   
+<img src = "https://drive.google.com/uc?export=view&id=1qJgJIAwDI0jxhs1Q59WyaGAvFg5fysTt" width="300" height="300"> 
  </p>
 
 ## Misson Statment: 
