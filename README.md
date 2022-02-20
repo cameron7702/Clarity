@@ -2,10 +2,10 @@
 
 Shashank Ojha, Andreas Joannou, Abdellah Ghassel, Cameron Smith  
 
-# Clarity:
+# <img src = "https://drive.google.com/uc?export=view&id=1uSO3lyjBBNwF7WbjJNcRnYrchpkJCQGR" width="220" height="80">   
   
  <p align="center">  
-<img src = "https://drive.google.com/uc?export=view&id=1U2RM58iYlFkJ64CoOh7ZjSeIdwfOiAN0" width="170" height="160">   
+<img src = "https://drive.google.com/uc?export=view&id=1griTlDOUhpmhqq7CLNtwrQnRGaBXGn72" width="170" height="160">   
  </p>
 
 Clarity is an interactive smart glass that uses an Artificial Intelligence emotion detection system, to notify the user of the emotion that the users in front of them are feeling. This wearable gadget is also having regular smart glass abilities like; seeing the time, sending reminders, open schedules, and see the weather, to insure that all users get the best experience. 
@@ -61,17 +61,24 @@ Due to the various applications mentioned of this product, this product has expo
 ## Technological Specifications
 
 ## Hardware:
+At first, the body of the device was a simple prism with an angled triangle to reflect the light 90 degrees from the user. The initial intention was to glue the glass reflector to the outer edge of the triangle to complete the 180-degree reflection. This plan was then scrapped in favour of a more robust mounting system, including a frontal clip for the reflector and a modular cage for the LCD screen. After feeling confident in the primary design, a prototype was 3D printed. During the construction of the initial prototype, a number of challenges surfaced including dealing with printer errors, component measurement, and manufacturing mistakes. One problem with the first prototype was lack of adhesion to the printing bed. This resulted in raised corners which negatively affected component cooperation. The issue was overcome by introducing a ring of material around the main body. Component measurement and manufacturing mistakes further led to improper fitting between pieces. This was ultimately solved by simplifying the initial design, which had fewer points of failure. The evolution of the CAD files can be seen below.
+ 
+<p align="center">
+<img src = "https://drive.google.com/uc?export=view&id=1vDT1gGyfM7FgioSRr71yBSysGntOfiFC" width="400" height="400"> 
+  </p>
+  
+The material chosen for the prototypes was PLA plastic for its strength to weight ratio, and its price. This material is very lightweight and strong, allowing for a more comfortable experience for the user. Furthermore, the inexpensive plastic allows for inexpensive manufacturing.
 
-### Refraction: 
-Clarity uses two reflections to project the image from the screen to the eye of the wearer. The process can be seen in the figure below.  First, the light from the lcd screen bounces off the mirror which has a normal line oriented at 45 degrees relative to the viewer. Due to the law of reflection, which states that the angle of incidence is equal to the angle of reflection relative to the normal line, the light rays first make a 90-degree turn. This results in a horizontal flip in the projected image. Then, in a similar fashion, this ray is reflected another 90 degrees against a transparent piece of polycarbonate plexiglass with anti reflective coating. This flips the image horizontally once again, resulting in a correctly oriented image. The total length that the light waves must travel should be equivalent to the straight-line distance required for an image to be discernible. This minimum distance is roughly 25cm for the average person.
+Clarity runs on a Raspberry Pi Model 4b. The RPi communicates with the OLED screen using the I2C protocol. It additionally powers and communicates with the camera module and outputs a signal to a button to control the glasses. The RPi handles all the image processing, to prepare the image for emotion recognition and creating images to be output to the OLED screen.
+
+
+### Optics: 
+Clarity uses two reflections to project the image from the screen to the eye of the wearer. The process can be seen in the figure below.  First, the light from the lcd screen bounces off the mirror which has a normal line oriented at 45 degrees relative to the viewer. Due to the law of reflection, which states that the angle of incidence is equal to the angle of reflection relative to the normal line, the light rays first make a 90-degree turn. This results in a horizontal flip in the projected image. Then, in a similar fashion, this ray is reflected another 90 degrees against a transparent piece of polycarbonate plexiglass with anti reflective coating. This flips the image horizontally once again, resulting in a correctly oriented image. The total length that the light waves must travel should be equivalent to the straight-line distance required for an image to be discernible. This minimum distance is roughly 25cm for the average person. This led to shifting the screen back within the shell to create a clearer image in the final product.
 
 <p align="center">
 <img src = "https://drive.google.com/uc?export=view&id=1dOHIXN2L045LHh7rCoD0iTrW_IVKf7dz" width="200" height="200"> 
   </p>
   
-### 3d print, how we made the casings, the protoype, then the final model after accounting for measurement errors.
-
-### Wiring/Connection: [mention next step of bluetooth]
 
 ## Software: 
 The emotion detection capabilities of the Clarity smart glasses are powered by Google Cloud Vision API. The glasses capture a photo of the people in front of the user, runs the photo through the Cloud Vision model using an API key, and outputs a discrete probability distribution of the emotions. This probability distribution is analyzed by Clarity’s code to determine the emotion of the people in the image. The output of the model is sent to the user through the OLED screen using the Pillow library.
