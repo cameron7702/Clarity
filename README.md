@@ -1,12 +1,13 @@
+ <img src = "https://drive.google.com/uc?export=view&id=1uSO3lyjBBNwF7WbjJNcRnYrchpkJCQGR" width="220" height="45">   
+
+**Authors:** Shashank Ojha, Andreas Joannou, Abdellah Ghassel, Cameron Smith 
+
 ## Inspiration
 
 
-Shashank Ojha, Andreas Joannou, Abdellah Ghassel, Cameron Smith  
-
-# <img src = "https://drive.google.com/uc?export=view&id=1uSO3lyjBBNwF7WbjJNcRnYrchpkJCQGR" width="220" height="80">   
   
  <p align="center">  
-<img src = "https://drive.google.com/uc?export=view&id=1griTlDOUhpmhqq7CLNtwrQnRGaBXGn72" width="3oo" height="75">   
+<img src = "https://drive.google.com/uc?export=view&id=1griTlDOUhpmhqq7CLNtwrQnRGaBXGn72" width="300" height="300">   
  </p>
 
 Clarity is an interactive smart glass that uses a convolutional neural network, to notify the user of the emotions of those in front of them. This wearable gadget has other smart glass abilities such as the weather and time, viewing daily reminders and weekly schedules, to ensure that users get the best well-rounded experience. 
@@ -60,7 +61,7 @@ Next, Qualcomm could have a significant partnership in the forthcoming of Clarit
 
 Due to the various applications mentioned of this product, this product has exponential growth potential in the educational, research, and counselling industry, thus being able to offer significant potential in profit/possibilities for investors and researchers. 
 
-## Technological Specifications
+# Technological Specifications
 
 ## Hardware:
 At first, the body of the device was a simple prism with an angled triangle to reflect the light at 90° from the user. The initial intention was to glue the glass reflector to the outer edge of the triangle to complete the 180° reflection. This plan was then scrapped in favour of a more robust mounting system, including a frontal clip for the reflector and a modular cage for the LCD screen. After feeling confident in the primary design, a CAD prototype was printed via a 3D printer. During the construction of the initial prototype, a number of challenges surfaced including dealing with printer errors, component measurement, and manufacturing mistakes. One problem with the prototype was the lack of adhesion to the printing bed. This resulted in raised corners which negatively affected component cooperation. This issue was overcome by introducing a ring of material around the main body. Component measurements and manufacturing mistakes further led to improper fitting between pieces. This was ultimately solved by simplifying the initial design, which had fewer points of failure. The evolution of the CAD files can be seen below.
