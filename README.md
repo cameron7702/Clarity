@@ -1,7 +1,7 @@
  <img src = "https://drive.google.com/uc?export=view&id=1uSO3lyjBBNwF7WbjJNcRnYrchpkJCQGR" width="220" height="45">   
 
 **Authors:** Shashank Ojha, Andreas Joannou, Abdellah Ghassel, Cameron Smith 
-### Update: Winner of the best wearble gadget award
+### Update: Best Wearable Gadget Award
 
 ## Inspiration
 
